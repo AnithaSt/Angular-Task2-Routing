@@ -1,0 +1,34 @@
+.image{
+    width:250px;
+    height:80px;
+    }
+    a:active {
+        color: #eb0f3f;
+      }
+   .slide{
+        height: 450px;
+        }
+.font{
+        font-size: 20px;
+    }
+.imgp{
+       width: 100%;
+       height: 200px;
+   }
+.imga{
+       width:100%;
+       height: 170px;
+   }
+   .pw{
+    font-family: open sans,sans-serif;
+    padding-top: 30px;
+    color: #5e5e5e;
+    font-size: 14px;
+    margin-left: 200px;
+}
+span{color: #ababab;}
+
+.footer{
+    height: 70px;
+    background-color:#1d1d1d;
+     }

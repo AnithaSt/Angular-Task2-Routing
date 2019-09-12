@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding:0px; 
+}
+a:active {
+    color: #eb0f3f;
+  }
+.image{
+    width:250px;
+    height:80px;
+    }
+.size{
+    font-size:26px;  
+}
+.bca{ background-color: #c1e011;}
+.font{
+    font-size: 85px;
+}
+.pw{
+    font-family: open sans,sans-serif;
+    padding-top: 30px;
+    color: #5e5e5e;
+    font-size: 14px;
+}
+span{color: #ababab;}
+
+.footer{
+    height: 70px;
+    background-color:#1d1d1d;
+     }

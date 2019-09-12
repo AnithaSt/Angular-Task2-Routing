@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding:0px; 
+}
+a:active {
+    color: #eb0f3f;
+  }
+
+.image{
+    width:250px;
+    height:80px;
+    }
+    .bca{ background-color: #a7f810;}
+    .icona{ background-color:#f97171;;
+		border-radius: 50px; 
+        padding: 20px;
+    }
+    .h:hover{color:#f7cd68 }
+    .bcv{
+        background-color: #f3f3f3;
+    } 
+    .width{
+        width: 100%;
+    }
+    .card-body{
+        padding: 30px;
+    }
+    .pw{
+        font-family: open sans,sans-serif;
+        padding-top: 30px;
+        color: #5e5e5e;
+        font-size: 14px;
+    }
+    span{color: #ababab;}
+    
+    .footer{
+        height: 70px;
+        background-color:#1d1d1d;
+         }
